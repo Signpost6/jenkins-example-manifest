@@ -1,0 +1,11 @@
+{
+    "githash": null,
+    "buildNumber": null,
+    "buildDate": null,
+    "meta": {
+        
+    },
+    "version": "2.0",
+    "enabled": true,
+    "name": "some-app"
+}
